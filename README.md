@@ -71,3 +71,5 @@ Other failures during deployment (`die`) also remove the partial directory. The 
 - Re-deployed over an existing name and chose both overwrite and abort.
 - Ran the app, then archived: with `attendance.log` only (absent skipped) and with both logs present.
 - Sent SIGINT mid-deploy and inspected the zip and the removed directory.
+## Walkthrough video link
+- https://www.youtube.com/watch?v=ptF5VsimmqE
